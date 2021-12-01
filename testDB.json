@@ -75,5 +75,38 @@
 		"userId": 7897897,
 		"createTime": "test1",
 		"createdTime": "test1"
+	},
+	"user": { "client_id": "", "create_time": "" },
+	"answer": {
+		"data": [
+			{
+				"client_id": "",
+				"timestamp": "",
+				"location_id": "",
+				"year_new": "",
+				"year_old": "",
+				"zoom_level": "",
+				"left_top_lat": "",
+				"left_top_lng": "",
+				"bottom_right_lat": "",
+				"bottom_right_lng": "",
+				"land_usage": "",
+				"expansion": ""
+			}
+		]
+	},
+	"location": {
+		"user_token": "",
+		"size": "",
+		"gold_standard_size": "",
+		"factory_id": "",
+		"location_id": ""
+	},
+	"status": {
+		"user_token": "",
+		"individual_done_count": "",
+		"user_count": "",
+		"answer_count": "",
+		"location_is_done_count": ""
 	}
 }
