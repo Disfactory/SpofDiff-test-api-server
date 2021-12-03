@@ -76,11 +76,11 @@
 		"createTime": "test1",
 		"createdTime": "test1"
 	},
-	"user": { "client_id": "", "create_time": "" },
+	"user": [{ "client_id": "", "create_time": "" }],
 	"answer": {
+		"user_token": "",
 		"data": [
 			{
-				"client_id": "",
 				"timestamp": "",
 				"location_id": "",
 				"year_new": "",
@@ -108,5 +108,6 @@
 		"user_count": "",
 		"answer_count": "",
 		"location_is_done_count": ""
-	}
+	},
+	"test-answer": {}
 }
