@@ -95,13 +95,28 @@
 			}
 		]
 	},
-	"location": {
-		"user_token": "",
-		"size": "",
-		"gold_standard_size": "",
-		"factory_id": "",
-		"location_id": ""
-	},
+	"location": [
+		{
+			"factory_id": "ff12a575-6ce5-4366-966d-8cad8688c232",
+			"location_id": "a"
+		},
+		{
+			"factory_id": "61c356e3-7566-490e-a98b-8a7a2b6f4a2c",
+			"location_id": "b"
+		},
+		{
+			"factory_id": "3e2a389a-d2ae-4516-9e19-d8c4f7ac2723",
+			"location_id": "c"
+		},
+		{
+			"factory_id": "2ebcdb02-d91b-47bf-81ed-7252862413d1",
+			"location_id": "d"
+		},
+		{
+			"factory_id": "665c3e4c-2496-4119-982e-3662096eb323",
+			"location_id": "e"
+		}
+	],
 	"status": {
 		"user_token": "",
 		"individual_done_count": "",
