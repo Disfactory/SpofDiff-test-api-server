@@ -115,7 +115,44 @@
 		{
 			"factory_id": "665c3e4c-2496-4119-982e-3662096eb323",
 			"location_id": "e"
-		}
+		},
+		{
+			"factory_id": "6a6b68f5-ab9e-4e6e-8756-4a9779278aa3",
+			"location_id": "f"
+		},
+		{
+			"factory_id": "81815d3d-82c0-44f3-9646-2893b1b731f2",
+			"location_id": "g"
+		},
+		{
+			"factory_id": "0a1478d8-7d72-4110-8cb0-0b2c8ebfccaf",
+			"location_id": "h"
+		},
+		{
+			"factory_id": "ce622add-b158-4ae9-9fe3-853eedd977a7",
+			"location_id": "i"
+		},
+		{
+			"factory_id": "051ffaf6-7988-4c15-9fcb-fb0b505ef853",
+			"location_id": "j"
+		},
+		{
+			"factory_id": "a3d708fe-9007-4cc9-a691-535100081c31",
+			"location_id": "k"
+		},
+		{
+			"factory_id": "c0f28329-d442-4849-9f32-51b4bca08fc6",
+			"location_id": "l"
+		},
+		{
+			"factory_id": "7ef22cae-d621-41a9-b059-bc3c7dc83aa8",
+			"location_id": "m"
+		},
+		{
+			"factory_id": "a0133d48-112d-49c9-b753-93cef72a459c",
+			"location_id": "n"
+		},
+		{ "factory_id": "2779cb73-eb3a-40fe-ad9c-50d1bf0dc538", "location_id": "o" }
 	],
 	"status": {
 		"user_token": "",
